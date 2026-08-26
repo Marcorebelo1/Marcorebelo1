@@ -36,16 +36,25 @@ My undergraduate final project, graded **20/20**, resulted in an AI-assisted pip
 ## 🛠️ Tech Stack
 
 **AI & Data**
-Python · LLMs · Ollama · OCR · JSON-LD · RDF · SHACL
+Python · Local LLMs (Ollama) · OCR & Document Processing · Prompt Engineering · ChatGPT · Anthropic Claude · Gemini · NotebookLM · SQL · NoSQL · JSON-LD · RDF · SHACL · XML · XSD · Data Interoperability
 
-**Backend**
-Java · C# · PHP · FastAPI · Jakarta EE · Laravel · REST APIs
+**Backend & APIs**
+Java · C# · PHP · Node.js · Express · Flask · Django · Jakarta EE · Laravel · ASP.NET Web API · REST APIs · WebSockets (Socket.IO) · MQTT · Swagger
 
-**Frontend**
-TypeScript · JavaScript · React · Next.js · Vue.js · Tailwind CSS
+**Frontend & Mobile**
+HTML · CSS · JavaScript · TypeScript · Vue.js · React · Next.js · Flutter · Tailwind CSS · Bootstrap · Framer Motion · Three.js · WebGL
 
-**Databases & Other**
-PostgreSQL · MySQL · SQLite · Git · MQTT · XML · IoT
+**Databases**
+PostgreSQL · MySQL · SQL Server · SQLite · NoSQL
+
+**Software Engineering & Processes**
+UML · ICONIX · MVC · Software Design Patterns · BPMN · Camunda · Bonita · Groovy · Unit Testing · Katalon Studio
+
+**Systems, IoT & Networks**
+Raspberry Pi · Arduino · Sensors & Actuators · Linux · Networking (CCNA) · Cybersecurity · Docker
+
+**Tools & Methods**
+Git · GitHub · Bitbucket · Jira · Scrum · Kanban · Pair Programming · Postman · Figma · CI/CD
 
 ---
 

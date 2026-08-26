@@ -56,13 +56,3 @@ PostgreSQL · MySQL · SQLite · Git · MQTT · XML · IoT
 * 🔬 Research Fellow — **Blockchain.PT**
 
 ---
-
-<div align="center">
-
-### Currently exploring
-
-**AI Agents · RAG · LLM Applications · Tool Calling · AI Workflows**
-
-<br>
-
-</div>

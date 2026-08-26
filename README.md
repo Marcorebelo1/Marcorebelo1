@@ -54,5 +54,3 @@ PostgreSQL · MySQL · SQLite · Git · MQTT · XML · IoT
 * 🎓 B.Sc. Computer Engineering — **17.3/20**
 * 🏆 Undergraduate Final Project — **20/20**
 * 🔬 Research Fellow — **Blockchain.PT**
-
----

@@ -65,6 +65,4 @@ PostgreSQL · MySQL · SQLite · Git · MQTT · XML · IoT
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/marcorebelo1/)
-
 </div>

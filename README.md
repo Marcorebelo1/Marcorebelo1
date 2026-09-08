@@ -24,12 +24,12 @@ My undergraduate final project, graded **20/20**, resulted in an AI-assisted pip
 
 ## 🚀 Featured Projects
 
-* 🧠 **FUC → ELM** — AI-powered document processing pipeline using OCR, local LLMs and semantic validation.
-* 📄 **PaperFlow** — Full-stack document management platform with AI-assisted processing.
-* 🌐 **SOMIOD** — REST and MQTT middleware for IoT systems.
-* 🃏 **Bisca's Club** — Real-time multiplayer web application and a Mobile App (Flutter).
-* 🌱 **Smart Greenhouse** — IoT system using Raspberry Pi, Arduino and sensors.
-* 🌍 **IEEE IPLeiria Website** — Website developed as part of technical volunteering.
+* 🧠 **FUC → ELM** - AI-powered document processing pipeline using OCR, local LLMs and semantic validation.
+* 📄 **PaperFlow** - Full-stack document management platform with AI-assisted processing.
+* 🌐 **SOMIOD** - REST and MQTT middleware for IoT systems.
+* 🃏 **Bisca's Club** - Real-time multiplayer web application and a Mobile App (Flutter).
+* 🌱 **Smart Greenhouse** - IoT system using Raspberry Pi, Arduino and sensors.
+* 🌍 **IEEE IPLeiria Website** - Website developed as part of technical volunteering.
 
 ---
 

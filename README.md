@@ -55,11 +55,3 @@ Raspberry Pi · Arduino · Sensors & Actuators · Linux · Networking (CCNA) · 
 
 **Tools & Methods**
 Git · GitHub · Bitbucket · Jira · Scrum · Kanban · Pair Programming · Postman · Figma · CI/CD
-
----
-
-## 🔬 Research
-
-* 🎓 B.Sc. Computer Engineering — **17.3/20**
-* 🏆 Undergraduate Final Project — **20/20**
-* 🔬 Research Fellow — **Blockchain.PT**
